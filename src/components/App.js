@@ -9,8 +9,10 @@ const App = () => {
         {/* Do not remove the main div */}
         <PageLayout
           header="Welcome to my website"
-          children="This is the content of my website"
-          footer="&copy; 2023 My Website. All rights reserved."
+
+          children="This is the content of my website." 
+
+          footer= "&copy; 2023 My Website. All rights reserved."
         />
     </div>
   )
